@@ -1,8 +1,1 @@
-git branch
-git push
-git switch
-git checkout -b
-git add .
-git commit -m
-git branch -d
-
+git pull
